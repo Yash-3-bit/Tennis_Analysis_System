@@ -1,0 +1,2 @@
+Image Detection is a computer technology related to computer vision, image processing and deep learning that deals with detecting instances of objects in images and videos. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court key points.
+Ultimately, the goal is to predict the players' positions on the court, the ball's location, the racket swing speed, shot speed, and the players' movement speed.
